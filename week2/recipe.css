@@ -1,6 +1,12 @@
 #pageTitle {
 	text-align: center;
 	font-size: 3em;
+	text-decoration: underline;
+}
+
+#refPara {
+	font-style: italic;
+	font-size: .95em;
 }
 
 p {
