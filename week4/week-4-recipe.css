@@ -7,6 +7,8 @@
 #refPara {
 	font-style: italic;
 	font-size: .95em;
+	display: block;
+	width: 150px;
 }
 
 p {
@@ -46,9 +48,10 @@ a:link, a:visited {
 	text-decoration: none;
 }
 
-a:hover {
+#refPara:hover {
 	background: yellow;
 	font-size: 1.4em;
+	width: 220px;
 }
 
 ul li:nth-child(even){

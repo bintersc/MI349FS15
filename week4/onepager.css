@@ -1,0 +1,68 @@
+body {
+	width: 1200px;
+	margin-left: auto;
+	margin-right: auto;
+	font-family: "Georgia", serif;
+	background-color: #B9A596;
+	background-color: #C6A48B;
+}
+
+img {
+	display: block;
+	width: 120px;
+	height: 120px;
+	margin: 0 auto;
+}
+
+h1 {
+	text-align: left;
+	margin-left: 30px;
+	font-size: 2.5em;
+}
+
+h2 {
+	text-align: left;
+	margin-left: 45px;
+	font-size: 1.8em;
+}
+
+#titleDiv {
+	background-color: #492C17;
+	background-color: #693F21;
+	padding-bottom: 5px;
+	padding-top: 5px;
+}
+
+#shortPitch {
+	margin-left: 45px;
+	margin-right: 45px;
+	font-size: 1.20em;
+}
+
+#longPitch {
+	margin-left: 45px;
+	margin-right: 45px;
+	font-size: 1.10em;
+}
+
+#mainBody {
+	background-color: #5A3E29;
+	background-color: #885F3F;
+	padding-bottom: 50px;
+}
+
+td{
+	text-align: center;
+	width: 300px;
+}
+
+table {
+	margin-left: 150px;
+	margin-right: 150px;
+}
+
+th {
+	text-align: center;
+	font-size: 1.3em;
+	padding-bottom: 30px;
+}
