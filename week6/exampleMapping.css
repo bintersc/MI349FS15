@@ -1,0 +1,43 @@
+.div {
+	width: 100px;
+	height: 100px;
+	display: inline-block;
+}
+
+#div1 {
+
+}
+
+#div2 {
+	margin-left: 70px;
+}
+
+#div3 {
+	margin-top: 5px;
+}
+
+#div4 {
+	margin-left: 70px;
+	margin-top: 5px;
+}
+
+.button {
+	width:30px;
+	height:30px;
+}
+
+#button1{
+	margin-left:100px;
+}
+
+#button2 {
+	margin-left:10px;
+}
+
+#button3 {
+	margin-left:100px;
+}
+
+#button4 {
+	margin-left:10px;
+}
