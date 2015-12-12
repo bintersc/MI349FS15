@@ -14,6 +14,10 @@ Feel free when visiting the homepage to make an account. If you would like to lo
 I do not have that implemented. That being said, the session (and your login) only lasts as long as your browser is open.
 I would have liked to add a logout to the system, but was running out of time towards the end.
 
+My breakpoints quickly showed me that this site will never be truly appropriate for mobile. To that end the breakpoints
+now revolve around a user who might like to use the site on a split screen, so it should scale down appropriately to a certain
+width, then remain constant.
+
 The spell search page is likely the most simplistic part of the project, by which I mean that it is NOT remotely complete.
 I could not get the search algorithm I was looking into developing working for my SQL backend. Thus, it only responds
 to SPECIFIC (and correct) queries. For testing purposes, I included a spell 'Magic Missile' that you can use to understand
