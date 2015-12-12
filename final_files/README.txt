@@ -24,6 +24,12 @@ to SPECIFIC (and correct) queries. For testing purposes, I included a spell 'Mag
 where that page was generally going. In the end, due to my struggles with the algorithm and my lack of hours and hours to 
 type in various spells I have provided that example alone for now while the rest is under development.
 
+The deviations in the project generally were due to mass overscope. I still plan to implement those features, and some
+friends have expressed interest in throwing in their help now that I need not be working alone on a final project. The spell page
+became a proof of concept due to data generation and algorithm constraints, and the character pages were simplified in order to provide
+what I consider to be a relatively end-to-end product that is at least useable and helpful, if not complete in terms of all the appropriate
+data that it should eventually store.
+
 I was one of the students who wished to pursue an honors option. For that option I have implemented relatively secure user 
 accounts myself, hashing and salting the account passwords within an SQL database. I am also doing storage for the characters
 and the vast majority of my data in pushes and pulls from that database.
