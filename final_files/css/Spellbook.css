@@ -1,0 +1,18 @@
+#centeringDiv {
+	width: 800px;
+	margin: 0 auto;
+}
+
+h1 {
+	text-align: center;
+}
+
+#query_div {
+	width: 175px;
+	margin: 0 auto;
+}
+
+#submit_button_div {
+	width: 58px;
+	margin: 0 auto;
+}

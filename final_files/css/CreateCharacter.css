@@ -1,0 +1,171 @@
+h1 {
+	text-align: center;
+}
+
+input::-webkit-inner-spin-button {
+	-webkit-appearance: none;
+	margin: 0;
+}
+
+.attr_table_ability_base, .attr_table_ability_bonus, .attr_table_ability_modifier, .attr_table_ability_total {
+	margin: 0 auto;
+	text-align: center;
+	width: 70px;
+}
+
+.attr_table_ability_name {
+	text-align: right;
+}
+
+.black_small_text {
+	font-size: 10px;
+}
+
+.centered_cell {
+	margin: 0 auto;
+	text-align: center;
+}
+
+.char_create_div {
+	border: 1px solid black;
+	margin-bottom: 2px;
+	vertical-align: top;
+}
+
+.char_create_int {
+	text-align: center;
+	width: 35px;
+}
+
+.char_create_text {
+	/*
+		border stuff, background color, etc.
+	*/
+	height: 18px;
+	display: inline-block;
+}
+
+.class_name {
+	margin: 0 0 0 55px;
+}
+
+.def_table_cell {
+	text-align: center;
+}
+
+.div_title {
+	text-align: center;
+	font-size: 1.2em;
+}
+
+.level_input {
+	width: 60px;
+}
+
+.right_cell {
+	margin: 0 0 0 auto;
+	text-align: right;
+}
+
+.skills_cell {
+	margin-left: auto;
+	padding: 2px 0px;
+}
+
+.skills_table {
+	margin: 0 auto;
+}
+
+.table_heading {
+	margin: 0 auto;
+	text-align: center;
+	padding: 10px 0px;
+	font-size: 19px;
+}
+
+.watermark {
+	color: gray;
+	font-style: italic;
+	font-size: 0.9em;
+}
+
+#attribute_div {
+	width: 422px;
+	display: inline-block;
+}
+
+#char_create_class_table {
+	width: 319px;
+}
+
+#char_create_left_wrapper {
+	display: inline-block;
+	width: 750px;
+}
+
+#char_dmg {
+	width: 40px;
+}
+
+#class_div {
+	width: 320px;
+	display: inline-block;
+}
+
+#class_name_col {
+	width: 140px;
+}
+
+#class_level_col {
+	width: 60px;
+}
+
+#char_weapon {
+	width: 70px;
+}
+
+#def_misc_div {
+	width: 750px;
+}
+
+#general_info_div {
+
+}
+
+#char_name, #player_name {
+	width: 170px;
+}
+
+#char_race, #char_race_other{
+	width: 80px;
+}
+
+#char_height, #char_weight {
+	width: 60px;
+}
+
+#char_age, #char_size, #char_gender, #char_speed {
+	width: 40px;
+}
+
+#char_create_right_wrapper {
+	display: inline-block;
+	vertical-align: top;
+	width: 446px;
+}
+
+#submit_button_div {
+	width: 150px;
+	margin: 0 auto;
+}
+
+@media only screen and (max-width: 1200px) {
+	#char_create_right_wrapper {
+		display: block;
+		margin: 0 auto;
+	}
+	#char_create_left_wrapper{
+		display: block;
+		margin: 0 auto;
+	}
+}

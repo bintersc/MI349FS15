@@ -1,0 +1,74 @@
+.attrInputNum {
+	width:50px;
+	margin-left: 20px;
+}
+
+.tableHeader {
+	text-align: center;
+}
+
+#attrDiv {
+	display: inline-block;
+
+}
+
+#hpDiv {
+	display: inline-block;
+
+}
+
+#classDiv {
+	display: inline-block;
+
+}
+
+#skillDiv {
+	display: inline-block;
+
+}
+
+#addClassColumn {
+	text-align: right;
+	margin-right: 10px;
+}
+
+#attributeTable{
+	border: 2px solid black;
+}
+
+#healthArmorTable{
+	border: 2px solid black;
+}	
+
+#classesTable{
+	border: 2px solid black;
+	width: 315px;
+}
+
+#skillsTable{
+	border: 2px solid black;
+	border-collapse: collapse;
+}
+
+.skillsRightBorder {
+	border-right: 2px solid black;
+}
+
+#skillsTableHeader {
+	border-bottom: 2px solid black
+}
+
+#skillsTable tr, #attributeTable tr, #healthArmorTable tr, #classesTable tr {
+	height: 25px;
+}
+
+input:focus {
+	border: 1px solid black;
+}
+
+body {
+	width: 800px;
+	margin-top: 50px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}

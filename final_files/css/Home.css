@@ -1,0 +1,51 @@
+#welcomeHeader {
+	text-align: center;
+}
+
+#aboutPara {
+	text-align: center;
+}
+
+#loginPrompt {
+	text-align: center;
+}
+
+#accountCreationForm {
+	text-align: center;
+}
+
+#loginDiv{
+	text-align: center;
+	margin: 0 auto;
+	width: 50px;
+	height: 20px;
+	display: inline-block;
+}
+
+#createDiv {
+	text-align: center;
+	margin: 0 auto;
+	width: 120px;
+	height: 20px;
+	display: inline-block;
+}
+
+#buttonsDiv {
+	margin: 0 auto;
+	width: 200px;
+}
+
+#rejectText {
+	color: red;
+	text-align: center;
+}
+
+#loggedInDiv {
+	margin: 0 auto;
+	text-align: center;
+	width: 300px;
+}
+
+#charTable {
+	margin: 0 auto;
+}
