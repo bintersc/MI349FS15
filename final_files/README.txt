@@ -30,4 +30,6 @@ and the vast majority of my data in pushes and pulls from that database.
 
 Obviously if you have any questions, feel free to let me know. My email is bintersc@msu.edu, phone (630) 335-2274.
 
+The URL to the homepage is: http://dmdevtools305.herokuapp.com/
+
 Thanks!
